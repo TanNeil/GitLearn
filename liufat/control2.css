@@ -1,0 +1,12 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #edd0d4, #e5ccf1, #add8e6);
+    margin: 20px;
+    padding: 20px;
+}
+
+a {
+    margin-left: 1050px;
+    color: #042e53;
+}

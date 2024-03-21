@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ffb6c1, #d3a9e6, #add8e6);
+    margin: 20px;
+    padding: 20px;
+}
+
+h2 {
+    margin-left: 540px; 
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 200px;
+    margin-top: 65px;
+    margin-left: 495px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+label {
+    position: absolute;
+    margin-left: 410px;
+    margin-top: 70px;
+    color: #333; /* 设置标签的文字颜色 */
+}
+
+input[type="submit"] {
+    width: 200px; /* 调整按钮宽度，使其与输入框对齐 */
+    margin-top: 50px;
+    margin-left: 495px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+a {
+    margin-left: 750px;
+    color: #042e53;
+}
+
+a:hover {
+    text-decoration: underline;
+}

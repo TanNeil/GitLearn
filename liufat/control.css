@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ffb6c1, #d3a9e6, #add8e6);
+    margin: 20px;
+    padding: 20px;
+}
+
+a {
+    margin-left: 1050px;
+    color: #042e53;
+}
+
+.account-info {
+    margin-left: 485px;
+    margin-top: 13px;
+}
